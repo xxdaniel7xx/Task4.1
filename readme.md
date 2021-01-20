@@ -9,5 +9,5 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos
 ___
 
 ### Содержание:
-1. [Введение - Что такое GIT?](intro)
+1. [Введение - Что такое GIT?](intr.md)
 2. [Установка GIT](installing.md)
