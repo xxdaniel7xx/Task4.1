@@ -1,4 +1,4 @@
-# Инcтрукция по работе с GIT
+# Инcтрукция по работе с GIT pip
 
 LICENSE: [MIT](./license.md)
 
@@ -8,6 +8,6 @@ GIT logo by Jason Long - http://git-scm.com/downloads/logos
 
 ___
 
-###Содержание:
+### Содержание:
 1. [Введение - Что такое GIT?](intro)
 2. [Установка GIT](installing.md)
