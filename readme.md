@@ -4,10 +4,22 @@ LICENSE: [MIT](./license.md)
 
 ![logo](./assets/gitlogo.png)
 
-GIT logo by Jason Long - http://git-scm.com/downloads/logos
-Licence: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+*GIT logo by Jason Long - http://git-scm.com/downloads/logos
+Licence: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)*
 ___
+
+Данная инструкция создана как краткое руководство к тому, чтобы как можно быстрее приступить к работе с **Git**. Данная инструкция не отражает полного функционала и возможностей **Git**, и поэтому крайне рекомендуется ознакомиться с более детальной учебной литературой и документацией про системы контроля версий и **Git**.
 
 ### Содержание:
 1. [***Введение - Что такое GIT?***](1intr.md)
-2. [***Установка GIT***](2installing.md)
+2. [***Установка и настройка GIT***](2installing.md)
+3. [***Создание репозитория***](3newrepository.md)
+4. [***Индексация файлов***](4add.md)
+5. [***Список исключений***](4.1ignore.md)
+6. [***Коммит***](5commit.md)
+7. [***Удаленный репозиторий***](6remote.md)
+8. [***Работа с удаленными репозиториями***](7PushPull.md) 
+9. [***Ветвление***](8.0branch.md)
+10. [***Git Форк***](9fork.md)
+
+___
